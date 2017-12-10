@@ -19,9 +19,11 @@ the stored key-values in it.
 http://localhost:8080/image .
 * Now one can send data using http://localhost:8080/input which sends the data as POST to http://localhost:8080/stdout. 
 
-### Note
-Please note that http://localhost:8080/ is just an example, you can run the express web-server at the default ports on your local machine.
 
-### How to use
-```
-First use npm install ```
+### Installation
+
+First things First :
+* Install dependencies using following command (set project's root directory as current directory) :
+``` npm install  --save```
+* In order to deploy the project, use following command:
+``` npm start```
