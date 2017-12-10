@@ -4,7 +4,7 @@ Here follwing tasks are demonstarted:
 * A simple hello-world at http://localhost:8080/ that displays a simple string
 like "Hello World - Akash".
 * Add a route, for e.g. http://localhost:8080/authors , which:
-..* fetches a list of authors from a request to
+⋅⋅1. fetches a list of authors from a request to
 https://jsonplaceholder.typicode.com/users
 b) fetches a list of posts from a request to
 https://jsonplaceholder.typicode.com/posts
