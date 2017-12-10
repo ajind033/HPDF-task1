@@ -23,7 +23,7 @@ http://localhost:8080/image .
 ### Installation
 
 First things First :
-* Install dependencies using following command (set project's root directory as current directory) :
+* Install dependencies using following command (set project's root directory as current directory) :  
 ``` npm install  --save```
-* In order to deploy the project, use following command:
+* In order to deploy the project, use following command:  
 ``` npm start```
