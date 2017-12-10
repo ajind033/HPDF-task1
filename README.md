@@ -11,7 +11,7 @@ https://jsonplaceholder.typicode.com/posts
   3. Respond with only a list of authors and the count of their posts (a newline for
 each author)
 * A route has been added,i.e, http://localhost:8080/setcookie, to set a simple cookie ( if it has not already been set ) with the following values:
-name=<your-first-name> and age=<your-age> .
+name=Akash and age=21.
 * A route has been added,i.e., http://localhost:8080/getcookies ,to fetch the set cookie and display
 the stored key-values in it.
 * A deny requests to our http://localhost:8080/robots.txt page has been setup. 
