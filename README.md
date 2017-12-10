@@ -21,3 +21,7 @@ http://localhost:8080/image .
 
 ### Note
 Please note that http://localhost:8080/ is just an example, you can run the express web-server at the default ports on your local machine.
+
+### How to use
+```
+First use npm install ```
