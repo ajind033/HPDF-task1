@@ -1,6 +1,6 @@
-# HPDF-task1
+# Nodejs Example
 This project is the task performed for the Hausra under fellowship  program. In this project, I have used NodeJs-Express Framework in order to perform the specified tasks,which are described below:
-### Sub-tasks
+### Tasks
 Here are the following tasks which I have performed:
 * A simple hello-world at http://localhost:8080/ that displays a simple string like "Hello World - Akash".
 * A route has been added ,i.e., http://localhost:8080/authors , which:
